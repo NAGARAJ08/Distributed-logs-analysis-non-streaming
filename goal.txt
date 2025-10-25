@@ -1,0 +1,7 @@
+Build a distributed system that can 
+
+- process millions of log lines efficiently
+- clean,transform, and partition the data
+- compute the metrics (error , latencies, throughput) per services/environment
+- detect anamolies over time
+- export resutls to optimized formats
